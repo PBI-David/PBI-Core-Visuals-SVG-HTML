@@ -10,6 +10,6 @@ A simple table that uses an SVG to show a donut as well as demonstrating the use
 
 ## SVG Slicers
 
-Elevate the slicer user experience by showing how many records will be affected with each selection. Useful when using \* _Sync Slicers_ \* functionality.
+Elevate the slicer user experience by showing how many records will be affected with each selection. Useful when using *Sync Slicers* functionality.
 
 ![](https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/blob/main/SVG%20Slicers/thumbnail.png)
