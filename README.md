@@ -1,4 +1,4 @@
-# SVG
+# Core Visuals, SVG & HTML
 
 This is a collection of Power BI Core Visuals, SVGs and HTML for use in [Power BI](https://powerbi.microsoft.com/en-us/). All the work is original and where this has been inspired by the work of others, I have pointed this out.
 
