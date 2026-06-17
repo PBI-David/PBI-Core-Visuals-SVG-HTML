@@ -13,6 +13,8 @@ Supports the following config:
 * Configure the max number of values shown before “…and x more” is shown
 * Configure the max number of columns shown before “…and x more” is shown
 * If your tables are prefixed with _d_ for dimensions and _f_ for facts, these can be removed automatically
+* Format strings are automatically applied so your dates and currencies look correct
+* Values are sorted correctly if a _sort by_ column is specified
 
 ![](<https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/blob/main/Applied%20Filters%20(HTML)/thumbnail.png>)
 
