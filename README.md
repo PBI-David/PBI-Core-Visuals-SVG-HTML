@@ -4,7 +4,7 @@ This is a collection of Power BI Core Visuals, DAX, SVGs and HTML for use in [Po
 
 ## Applied Filters (DAX & HTML)
 
-Show users which filters they have applied with a high level summary and further details provided on tooltip hover. Full instructions in the .pbix. 
+Show users which filters have been applied with a high level summary.  Additional details are provided on tooltip hover. Full instructions in the .pbix. 
 
 Supports the following config:
 
