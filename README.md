@@ -4,15 +4,19 @@ This is a collection of Power BI Core Visuals, DAX, SVGs and HTML for use in [Po
 
 ## Applied Filters (DAX & HTML)
 
-Show users which filters they have applied with a summary and more details on tooltip hover. Full instructions in the .pbix and supports the following config:
+Show users which filters have been applied with a high level summary.  Additional details are provided on tooltip hover. Full instructions in the .pbix. 
 
-• Exclude entire tables
-• Exclude specific columns
-• Configure the max number of values shown before “…and x more” is shown
-• Configure the max number of columns shown before “…and x more” is shown
-• If your tables are prefixed with _d_ for dimensions and _f_ for facts, these can be removed automatically
+Supports the following config:
 
-![](<https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/tree/main/Chips%20%26%20Donuts%20(SVG%20%26%20HTML)/thumbnail.jpg>)
+* Exclude entire tables
+* Exclude specific columns
+* Configure the max number of values shown before “…and x more” is shown
+* Configure the max number of columns shown before “…and x more” is shown
+* If your tables are prefixed with _d_ for dimensions and _f_ for facts, these can be removed automatically
+* Format strings are automatically applied so your dates and currencies look correct
+* Values are sorted correctly if a _sort by_ column is specified
+
+![](<https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/blob/main/Applied%20Filters%20(HTML)/thumbnail.png>)
 
 ## Chips & Donuts (SVG & HTML)
 
