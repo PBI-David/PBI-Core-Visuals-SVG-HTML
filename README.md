@@ -2,6 +2,18 @@
 
 This is a collection of Power BI Core Visuals, DAX, SVGs and HTML for use in [Power BI](https://powerbi.microsoft.com/en-us/). All the work is original and where this has been inspired by the work of others, I have pointed this out.
 
+## Applied Filters (DAX & HTML)
+
+Show users which filters they have applied with a summary and more details on tooltip hover. Full instructions in the .pbix and supports the following config:
+
+• Exclude entire tables
+• Exclude specific columns
+• Configure the max number of values shown before “…and x more” is shown
+• Configure the max number of columns shown before “…and x more” is shown
+• If your tables are prefixed with _d_ for dimensions and _f_ for facts, these can be removed automatically
+
+![](<https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/tree/main/Chips%20%26%20Donuts%20(SVG%20%26%20HTML)/thumbnail.jpg>)
+
 ## Chips & Donuts (SVG & HTML)
 
 A simple table that uses an SVG to show a donut as well as demonstrating the use of SVGs nested within HTML nested within SVGs for the display of the chips.
