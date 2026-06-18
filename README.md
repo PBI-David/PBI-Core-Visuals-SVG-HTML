@@ -4,7 +4,9 @@ This is a collection of Power BI Core Visuals, DAX, SVGs and HTML for use in [Po
 
 ## Applied Filters (DAX & HTML)
 
-Show users which filters have been applied with a high level summary.  Additional details are provided on tooltip hover. Full instructions in the .pbix. 
+Show users which filters have been applied with a high level summary and then show additional details on tooltip hover. This works with both slicers and when a user clicks a datapoint in a chart.
+ 
+The high level summary shows how many columns and values have been filtered. If nothing is filtered, nothing is shown. The detail is shown when the user hovers over that summary. They will see a tooltip showing exactly which filters have been applied.
 
 Supports the following config:
 
@@ -15,6 +17,8 @@ Supports the following config:
 * If your tables are prefixed with _d_ for dimensions and _f_ for facts, these can be removed automatically
 * Format strings are automatically applied so your dates and currencies look correct
 * Values are sorted correctly if a _sort by_ column is specified
+
+Full instructions in the .pbix. 
 
 ![](<https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/blob/main/Applied%20Filters%20(HTML)/thumbnail.png>)
 
